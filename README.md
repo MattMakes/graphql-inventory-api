@@ -4,7 +4,7 @@ To clone the repo, make sure you have `git` installed on your machine.
 To check type `git -v`. If it not installed on your machine, download and install it. If git is already installed, run
 
 ``` 
-git clone https://github.com/Orinami/graphql-inventory-api.git
+git clone https://github.com/MattMakes/graphql-inventory-api.git
 ```
 Install the dependencies using:
 
